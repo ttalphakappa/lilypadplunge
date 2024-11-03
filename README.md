@@ -9,7 +9,7 @@
     <h1>Welcome to Lily Pad Plunge</h1>
     <p>This is the home page of our website.</p>
     <nav>
-        <a href="index.html">About Us</a>
+        <a href="about_us">About Us</a>
     </nav>
 </body>
 </html>
